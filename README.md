@@ -3,6 +3,8 @@ Here we describe the pipeline for extracting graphs metrics from  dynamic functi
 It consists of several steps that are built in FSL/Bash, Python and Matlab.
 
 Here it is assumed that the rs-fMRI are preprocessed (with or without denoising), in addition to the already rs-networks extracted by cGICA.
+> Several scripts herein are required to run under UNIX/Linux or MacOS environment.
+> If you use Windows, then it is recommended to run it through [WSL](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#1-overview) or virtual machine.
 
 ## **STEPS**:
 
