@@ -1,4 +1,4 @@
-# gruneco_rsfMRI_connectivity
+# GRUNECO rsfMRI connectivity based on cGICA Maps
 Here we describe the pipeline for extracting graphs metrics from  dynamic functional connectivity.  
 It consists of several steps that are built in FSL/Bash, Python and Matlab.
 
