@@ -25,3 +25,9 @@ Here it is assumed that the rs-fMRI are preprocessed (with or without denoising)
      - [SnPM13](http://www.nisox.org/Software/SnPM13/)
 * Python 3.x
 > It is recommended to run in a [virtual environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
+
++ Installing requeriments
+```
+python3 -m pip install requests
+```
+
