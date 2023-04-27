@@ -19,7 +19,7 @@ Here it is assumed that the rs-fMRI are preprocessed (with or without denoising)
 ## Pre-Installation:
 
 * [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
-> Please avoid NeuroDebian installation
+> Please avoid [NeuroDebian](https://neuro.debian.net/) installation
 * MATLAB
      - [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
      - [SnPM13](http://www.nisox.org/Software/SnPM13/)
