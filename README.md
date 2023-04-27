@@ -27,7 +27,7 @@ Here it is assumed that the rs-fMRI are preprocessed (with or without denoising)
 > It is recommended to run in a [virtual environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
 
 ### Installing requeriments
-Once the virtual environment has been activated, the following requirements are installed
+Once the [virtual environment](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/) has been activated, the following requirements are installed
 ```
 python3 -m pip install requests
 ```
