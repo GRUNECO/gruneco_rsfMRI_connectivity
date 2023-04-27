@@ -16,10 +16,10 @@ Here it is assumed that the rs-fMRI are preprocessed (with or without denoising)
 
 Pre-Installation:
 
-1. [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
+* [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
 > Please avoid NeuroDebian installation
-3. MATLAB
+* MATLAB
      - [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/)
      - [SnPM13](http://www.nisox.org/Software/SnPM13/)
-4. Python 3.x
+* Python 3.x
 > It is recommended to run in a [virtual environment](https://docs.python.org/es/3/library/venv.html)
