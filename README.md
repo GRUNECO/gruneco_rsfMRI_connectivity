@@ -4,7 +4,7 @@ It consists of several steps that are built in FSL/Bash, Python and Matlab.
 
 Here it is assumed that the rs-fMRI are preprocessed (with or without denoising), in addition to the already rs-networks extracted by cGICA.
 
-**STEPS**:
+## **STEPS**:
 
 1. cGICA rs-networs Denoising
 2. Non-Parametric Statistical Test with SnPM/SPM12
@@ -14,7 +14,7 @@ Here it is assumed that the rs-fMRI are preprocessed (with or without denoising)
 6. Mixed ANOVA for dynFC
 
 
-Pre-Installation:
+## Pre-Installation:
 
 * [FSL](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki)
 > Please avoid NeuroDebian installation
